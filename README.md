@@ -3,9 +3,15 @@ Class based view App:
      class based views can inherit the properties from many claases. Url patterns can be defined by calling as_view method, on view classes.
      
   Key Features:
+  
     1. Class-Based Views
+    
     2. URL Routing
+    
     3. Template Rendering
+    
     4. Model Integration
+    
     5. Form Handling
+    
     6. Authentication and Permissions
